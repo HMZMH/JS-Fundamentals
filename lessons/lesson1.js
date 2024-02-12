@@ -1,8 +1,8 @@
 console.log("Hello World!")
 
 // Variables
-var firstName = "Hamzah"
-let lastName = "Mahmood"
+var firstName = "Marcus"
+let lastName = "Rashford"
 
 console.log(lastName)
 
@@ -15,12 +15,12 @@ age = "27"
 console.log(age)
 
 // Constants
-const occupation = "Test Engineer"
+const occupation = "Professional Footballer"
 console.log(occupation)
 
 // Data Types
-var nickname = "Hamz" // String
-var ageOfBrother = 23 // Number
-var isHeMarried = false // Boolean
-var yearsInMarriage = null // Null
-var numberOfCars = undefined // Undefined
+var footballClub = "Manchester United" // String
+var shirtNumber = 10 // Number
+var isHeInjured = false // Boolean
+var durationOfTimeInjured = null // Null
+var numberOfGoals = undefined // Undefined

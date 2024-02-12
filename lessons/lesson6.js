@@ -1,20 +1,20 @@
 // Conditional Statement
 
-var hour = 5
+var performance = 5
 
-if (hour >= 6 && hour < 12) {
-    console.log('Good Morning')
-} else if (hour >= 12 && hour < 18){
-    console.log('Good Afternoon')
+if (performance >= 0 && performance < 4) {
+    console.log('Poor performance!')
+} else if (performance >= 5 && performance < 8){
+    console.log('Good performance!')
 } else {
-    console.log('Good Evening')
+    console.log('Excellent performance!')
 }
 
-var ageIsMoreThanEighteen = true
-var isBritishCitizen = false
+var playsInThePremierLeague = true
+var isTheTopGoalScorer = false
 
-if(ageIsMoreThanEighteen && isBritishCitizen){
-    console.log('This customer is elegible forba driving license')
+if(playsInThePremierLeague && isTheTopGoalScorer){
+    console.log('This customer is elegible for a Golden Boot trophy')
 } else {
-    console.log('This customer is NOT elegible for a driving license')
+    console.log('This customer is NOT elegible for a Golden Boot trophy')
 }

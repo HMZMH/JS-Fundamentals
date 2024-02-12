@@ -5,10 +5,10 @@
 // >= More Than Equal
 // <= Less Than Equal
 
-var result1 = 10 > 5
-var result2 = 10 < 5
-var result3 = 5 >= 5
-var result4 = 6 <= 5
+var result1 = 3 > 2
+var result2 = 3 < 2
+var result3 = 2 >= 2
+var result4 = 3 <= 2
 
 console.log(result1)
 console.log(result2)
