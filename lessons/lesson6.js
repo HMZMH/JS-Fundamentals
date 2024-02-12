@@ -14,7 +14,7 @@ var playsInThePremierLeague = true
 var isTheTopGoalScorer = false
 
 if(playsInThePremierLeague && isTheTopGoalScorer){
-    console.log('This customer is elegible for a Golden Boot trophy')
+    console.log('This player is elegible for a Golden Boot trophy')
 } else {
-    console.log('This customer is NOT elegible for a Golden Boot trophy')
+    console.log('This player is NOT elegible for a Golden Boot trophy')
 }
